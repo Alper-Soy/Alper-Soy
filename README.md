@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alper Soy</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🏢 I currently work at Bamep Inc..
+- 🏢 I currently work at Bamep Inc.
 
 - 🔭 I’m currently working on [ScaleupStream](https://scaleupstream.com/)
 
